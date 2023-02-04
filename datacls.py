@@ -262,4 +262,3 @@ if __name__ == '__main__':
 
     print(asdict(user_list[0]))
     print('test')
-    o
