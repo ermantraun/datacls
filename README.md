@@ -1,2 +1,3 @@
 # datacls
-This is my test-project:)
+Dataclass from aliexpress
+This is my training-project:)
